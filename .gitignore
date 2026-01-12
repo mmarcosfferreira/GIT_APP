@@ -1,10 +1,29 @@
-# Arquivos grandes
+# Auto-generated
 *.exe
 *.dll
 data/downloads/
-
-# Credenciais
 github_tokens.json
-data/config.json
-
-# Arquivos ignorados pelo usuário
+avcodec-62.dll
+check_api_key.ps1
+diagnostico_api.ps1
+diagnostico_completo.ps1
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+gemini_config_working.json
+GUIA_MULTI_API.md
+HABILITAR_API_GEMINI.ps1
+listar_e_testar.ps1
+NOTAS_IMPORTANTES.md
+SOLUCAO_API_KEY.md
+SUCESSO_CHAT_IA.md
+swresample-6.dll
+swscale-9.dll
+System.Data.SQLite.dll
+test_final.ps1
+test_gemini_api.ps1
+test_nova_chave.ps1
+testar_api_gemini.ps1
+testar_nova_chave.ps1
+teste_abrangente.ps1
+teste_debug_apis.ps1

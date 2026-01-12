@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐙 Projeto Git
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-7.4+-blue?style=flat-square)
@@ -26,3 +27,6 @@ Este projeto foi enviado para o GitHub usando o **Git App** (standalone PowerShe
   <sub>Desenvolvido por <b>mmarcosfferreira</b></sub><br>
   <sub>Gerado automaticamente em: 2026-01-12 03:06</sub>
 </p>
+=======
+# GIT_APP
+>>>>>>> 41646bf7bce042d3971b990189ce4b62d391d0a9
