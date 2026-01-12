@@ -1,0 +1,10 @@
+# Arquivos grandes
+*.exe
+*.dll
+data/downloads/
+
+# Credenciais
+github_tokens.json
+data/config.json
+
+# Arquivos ignorados pelo usuário
